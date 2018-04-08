@@ -1,5 +1,10 @@
 package com.challenge.jestrada.rtstatistic.bo;
 
+/**
+ * BO - Statistic business object
+ * @author jonathanestrada
+ *
+ */
 public class Statistic {
 
 	private double sum;

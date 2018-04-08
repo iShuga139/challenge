@@ -1,4 +1,4 @@
-package com.challenge.jestrada.rtstatistic;
+package com.challenge.jestrada.transactions;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
@@ -9,9 +9,10 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
  *
  */
 @SpringBootApplication
-public class RtStatisticApplication {
+public class TransactionsApplication {
 
 	public static void main(String[] args) {
-		SpringApplication.run(RtStatisticApplication.class, args);
+		SpringApplication.run(TransactionsApplication.class, args);
 	}
+
 }
